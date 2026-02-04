@@ -1,0 +1,5 @@
+outs:
+- md5: ee99d8c61c743882cd5296274e385df5
+  size: 7462
+  hash: md5
+  path: housing-train.csv
